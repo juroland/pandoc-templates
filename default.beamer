@@ -12,6 +12,9 @@ $endif$
 \setbeamertemplate{caption label separator}{:}
 \setbeamercolor{caption name}{fg=normal text.fg}
 \usepackage{amssymb,amsmath}
+\usepackage{algorithmic}
+\usepackage{tikz}
+\usetikzlibrary{shapes}
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
 \usepackage{lmodern}
