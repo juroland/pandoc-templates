@@ -15,6 +15,7 @@ $endif$
 \usepackage{algorithmic}
 \usepackage{tikz}
 \usetikzlibrary{shapes}
+\usepackage{skak}
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
 \usepackage{lmodern}
