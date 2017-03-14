@@ -221,6 +221,10 @@ $include-before$
 $endfor$
 $if(toc)$
 \begin{frame}
+$if(toc-title)$
+{$toc-title$}
+$endif$
+\setbeamertemplate{section in toc}[sections numbered]
 \tableofcontents[hideallsubsections]
 \end{frame}
 
